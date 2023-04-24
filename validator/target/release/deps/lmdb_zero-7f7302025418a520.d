@@ -1,0 +1,19 @@
+/project/sawtooth-core/validator/target/release/deps/lmdb_zero-7f7302025418a520.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/mdb_vals.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/ffi2.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/env.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/dbi.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/traits.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/unaligned.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/tx.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/cursor.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/iter.rs
+
+/project/sawtooth-core/validator/target/release/deps/liblmdb_zero-7f7302025418a520.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/mdb_vals.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/ffi2.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/env.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/dbi.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/traits.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/unaligned.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/tx.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/cursor.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/iter.rs
+
+/project/sawtooth-core/validator/target/release/deps/lmdb_zero-7f7302025418a520.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/mdb_vals.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/ffi2.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/error.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/env.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/dbi.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/traits.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/unaligned.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/tx.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/cursor.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/iter.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/mdb_vals.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/ffi2.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/error.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/env.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/dbi.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/traits.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/unaligned.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/tx.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/cursor.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/lmdb-zero-0.4.4/src/iter.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.4.4

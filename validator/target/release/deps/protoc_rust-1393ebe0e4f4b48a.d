@@ -1,0 +1,8 @@
+/project/sawtooth-core/validator/target/release/deps/protoc_rust-1393ebe0e4f4b48a.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/slashes.rs
+
+/project/sawtooth-core/validator/target/release/deps/libprotoc_rust-1393ebe0e4f4b48a.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/slashes.rs
+
+/project/sawtooth-core/validator/target/release/deps/protoc_rust-1393ebe0e4f4b48a.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/slashes.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/protoc-rust-2.28.0/src/slashes.rs:
